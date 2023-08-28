@@ -1,0 +1,16 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>19.0.1f5</Version>
+<Cluster>
+<Name>Settings</Name>
+<NumElts>2</NumElts>
+<Path>
+<Name>TDMS Filepath</Name>
+<Val>C:\Users\Lorenzo\Desktop\Sample data\Fz_Vapp_020000_Vret_006000_20230623.17.47.04.447_033.tdms</Val>
+</Path>
+<Path>
+<Name>TDMS Directory</Name>
+<Val>C:\Users\Lorenzo\Desktop\Sample data</Val>
+</Path>
+</Cluster>
+</LVData>

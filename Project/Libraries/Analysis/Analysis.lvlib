@@ -28,6 +28,10 @@
 				<Item Name="Update Tau delay (ms) Argument--cluster.ctl" Type="VI" URL="../Update Tau delay (ms) Argument--cluster.ctl"/>
 				<Item Name="Open Fcurve object Argument--cluster.ctl" Type="VI" URL="../Open Fcurve object Argument--cluster.ctl"/>
 				<Item Name="Open Fcurve object (Reply Payload)--cluster.ctl" Type="VI" URL="../Open Fcurve object (Reply Payload)--cluster.ctl"/>
+				<Item Name="Apply Savitzky Golay Filter Argument--cluster.ctl" Type="VI" URL="../Apply Savitzky Golay Filter Argument--cluster.ctl"/>
+				<Item Name="Apply Savitzky Golay Filter (Reply Payload)--cluster.ctl" Type="VI" URL="../Apply Savitzky Golay Filter (Reply Payload)--cluster.ctl"/>
+				<Item Name="Apply decimation Argument--cluster.ctl" Type="VI" URL="../Apply decimation Argument--cluster.ctl"/>
+				<Item Name="Apply decimation (Reply Payload)--cluster.ctl" Type="VI" URL="../Apply decimation (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -47,6 +51,8 @@
 			<Item Name="Update contact parameters.vi" Type="VI" URL="../Update contact parameters.vi"/>
 			<Item Name="Update Tau delay (ms).vi" Type="VI" URL="../Update Tau delay (ms).vi"/>
 			<Item Name="Open Fcurve object.vi" Type="VI" URL="../Open Fcurve object.vi"/>
+			<Item Name="Apply Savitzky Golay Filter.vi" Type="VI" URL="../Apply Savitzky Golay Filter.vi"/>
+			<Item Name="Apply decimation.vi" Type="VI" URL="../Apply decimation.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
