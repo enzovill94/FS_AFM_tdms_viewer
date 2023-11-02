@@ -3,14 +3,18 @@
 <Version>19.0f2</Version>
 <Cluster>
 <Name>Settings</Name>
-<NumElts>2</NumElts>
+<NumElts>3</NumElts>
 <Path>
 <Name>TDMS Filepath</Name>
-<Val>C:\Users\Lorenzo\Desktop\Sample data\Fz_Vapp_020000_Vret_050000_20230623.17.56.54.474_104.tdms</Val>
+<Val>C:\Users\Lorenzo\Desktop\Sample data\Fz_Vapp_020000_Vret_006000_20230623.17.47.04.447_033.tdms</Val>
 </Path>
 <Path>
 <Name>TDMS Directory</Name>
 <Val>C:\Users\Lorenzo\Desktop\Sample data</Val>
 </Path>
+<Boolean>
+<Name>Dir?</Name>
+<Val>1</Val>
+</Boolean>
 </Cluster>
 </LVData>

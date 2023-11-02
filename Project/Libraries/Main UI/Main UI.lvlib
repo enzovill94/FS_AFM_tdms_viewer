@@ -20,6 +20,7 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Get analysis parameters Argument--cluster.ctl" Type="VI" URL="../Get analysis parameters Argument--cluster.ctl"/>
 				<Item Name="Get analysis parameters (Reply Payload)--cluster.ctl" Type="VI" URL="../Get analysis parameters (Reply Payload)--cluster.ctl"/>
+				<Item Name="Filepath updated Argument--cluster.ctl" Type="VI" URL="../Filepath updated Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +35,7 @@
 			<Item Name="Get Module Execution Status.vi" Type="VI" URL="../Get Module Execution Status.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Get analysis parameters.vi" Type="VI" URL="../Get analysis parameters.vi"/>
+			<Item Name="Filepath updated.vi" Type="VI" URL="../Filepath updated.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
@@ -97,4 +99,6 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="MHL_load file.vi" Type="VI" URL="../MHL_load file.vi"/>
+	<Item Name="MHL_decimate wfms.vi" Type="VI" URL="../MHL_decimate wfms.vi"/>
 </Library>

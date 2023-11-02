@@ -98,4 +98,5 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="MHL_open tdms file.vi" Type="VI" URL="../MHL_open tdms file.vi"/>
 </Library>
