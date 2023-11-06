@@ -289,6 +289,7 @@
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
+				<Item Name="LVMinMaxIncTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMinMaxIncTypeDef.ctl"/>
 			</Item>
 			<Item Name="Fcontrol_XYmain_states.ctl" Type="VI" URL="../../../Neo-Laura-LVOOP/FPGA_7857/Fcontrol_XYmain_states.ctl"/>
 			<Item Name="Analog Functions.vi" Type="VI" URL="../../../../../../Public/PI/E-709/GCS_LabVIEW/Low Level/Analog control.llb/Analog Functions.vi"/>
@@ -405,6 +406,9 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ZstageController.lvlib" Type="Library" URL="../../../Neo-Laura-LVOOP/Libraries/ZstageController/ZstageController.lvlib"/>
+			<Item Name="FPref_clustered--cluster references.ctl" Type="VI" URL="../Libraries/FileReader/FPref_clustered--cluster references.ctl"/>
+			<Item Name="FPref_cntrls--cluster references.ctl" Type="VI" URL="../Libraries/FileReader/FPref_cntrls--cluster references.ctl"/>
+			<Item Name="Indicators--FP cluster.ctl" Type="VI" URL="../Libraries/Main UI Shared/Indicators--FP cluster.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="TDMS_FileViewer" Type="EXE">

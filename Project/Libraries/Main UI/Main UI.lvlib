@@ -96,6 +96,13 @@
 		<Item Name="Set Enable State on Multiple Controls.vi" Type="VI" URL="../Set Enable State on Multiple Controls.vi"/>
 		<Item Name="Is UI Ready.vi" Type="VI" URL="../Is UI Ready.vi"/>
 	</Item>
+	<Item Name="MHL" Type="Folder">
+		<Item Name="MHL_get analysis parameters.vi" Type="VI" URL="../MHL_get analysis parameters.vi"/>
+		<Item Name="MHL_previous file.vi" Type="VI" URL="../MHL_previous file.vi"/>
+		<Item Name="MHL_apply Savitzsky.vi" Type="VI" URL="../MHL_apply Savitzsky.vi"/>
+		<Item Name="MHL_file path updated.vi" Type="VI" URL="../MHL_file path updated.vi"/>
+		<Item Name="MHL_forward file.vi" Type="VI" URL="../MHL_forward file.vi"/>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
