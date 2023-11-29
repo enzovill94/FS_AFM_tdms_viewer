@@ -211,7 +211,6 @@
 			<Item Name="version.dll" Type="Document" URL="version.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Get max deflection and Zpos index value.vi" Type="VI" URL="../Libraries/Class Library/Fcurve_class/private/Get max deflection and Zpos index value.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="TDMS_FileViewer" Type="EXE">
