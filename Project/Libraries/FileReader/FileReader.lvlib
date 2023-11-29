@@ -95,6 +95,7 @@
 		<Item Name="Log Data to File.vi" Type="VI" URL="../Log Data to File.vi"/>
 		<Item Name="Close File.vi" Type="VI" URL="../Close File.vi"/>
 	</Item>
+	<Item Name="Update Application Settings (Reply Payload)--cluster.ctl" Type="VI" URL="../../Filepath Editor/Update Application Settings (Reply Payload)--cluster.ctl"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

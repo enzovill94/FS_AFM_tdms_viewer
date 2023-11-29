@@ -1,0 +1,102 @@
+[system control]
+TDMS_HSFS_file_version = TRUE
+FPGA_SW_version = TRUE
+instrument = TRUE
+instrument_model = TRUE
+instrument_scanner = TRUE
+instrument_clorckrate_(Mhz) = TRUE
+instrument_tick_time_(us) = TRUE
+
+[file information]
+date = TRUE    
+time = TRUE    
+filename = TRUE    
+filepath = TRUE    
+user = TRUE  
+experiment_name = TRUE  
+curve_id = TRUE
+number_segments = TRUE
+number_consecutive_scans = TRUE
+fast_fgpa_trigger_(bool) = TRUE
+
+[sample information]
+sample_name = TRUE    
+sample_species = TRUE    
+
+[cantilever information]
+spring_constant_calib_method = TRUE    
+invOLS_calib_method = TRUE      
+thermal_calib_deflection_channel = TRUE      
+cantilever_model = TRUE    
+cantilever_shape = TRUE  
+tip_geometry = TRUE   
+cantilever_spring_constant_nominal_(N/m) = TRUE    
+cantilever_spring_constant_calib_(N/m) = TRUE    
+cantilever_resonance_frequency_air_calib_(Hz) = TRUE    
+cantilever_resonance_frequency_calib_(Hz) = TRUE    
+cantilever_quality_factor = TRUE    
+cantilever_Acoefficient_GCI_(nN.s^1.3/m) = TRUE    
+tip_half_angle_(deg) = TRUE    
+tip_radius_(m) = TRUE    
+tip_height_(m) = TRUE    
+laser_sum_(V) = TRUE    
+laser_power_(mA) = TRUE  
+invOLS_(nm/V) = TRUE  
+system_mount_angle_(deg) = TRUE
+
+[XYZ piezos]
+system_X_piezo_sensitivity_(nm/V) = TRUE
+system_X_piezo_gain = TRUE
+X_vel_(V/tick) = TRUE
+X_closed_loop_(bool) = TRUE
+system_Y_piezo_sensitivity_(nm/V) = TRUE
+system_Y_piezo_gain = TRUE
+Y_vel_(V/tick) = TRUE
+Y_closed_loop_(bool) = TRUE
+system_Z_stage_piezo_sensitivity_(nm/V) = TRUE
+system_Z_stage_piezo_gain = TRUE
+Z_closed_loop_(bool) = TRUE
+X_position_(V) = TRUE
+Y_position_(V) = TRUE
+deflection_sum_(V) = TRUE
+
+[mapping parameters]
+mapping_(bool) = TRUE
+mapping_index = TRUE
+mapping_position_row = TRUE
+mapping_position_column = TRUE
+mapping_next_position_row = TRUE
+mapping_next_position_column = TRUE
+mapping_X_initial_position_(V) = TRUE
+mapping_Y_initial_position_(V) = TRUE
+mapping_X_step_size_(V) = TRUE
+mapping_Y_step_size_(V) = TRUE
+
+[force curve segments]
+zpiezo_control_out = TRUE
+setpoint_trigger_channel = TRUE
+type = TRUE
+nb = TRUE
+duration_(ticks) = TRUE
+nb_points_(points) = TRUE
+sampling_rate_(S/s) = TRUE
+initial_deflection_(V) = TRUE
+relative_setpoint_(bool) = TRUE
+setpoint_on_(bool) = TRUE
+setpoint_(V) = TRUE
+velocity(V/tick) = TRUE
+Z_position_setpoint_trigger_(V) = TRUE
+Z_retract_length_(V) = TRUE
+dec_factor = TRUE
+
+[chirp]
+Sweep_type = TRUE
+f_start_(Hz) = TRUE
+f_end_(Hz) = TRUE
+
+
+[fast fpga]
+fast_start_time_trigger = TRUE
+fast_nb_points = TRUE
+fast_sampling_rate_(S/s) = TRUE
+fast_duration_(ticks) = TRUE

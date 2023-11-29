@@ -103,9 +103,12 @@
 		<Item Name="MHL_file path updated.vi" Type="VI" URL="../MHL_file path updated.vi"/>
 		<Item Name="MHL_forward file.vi" Type="VI" URL="../MHL_forward file.vi"/>
 	</Item>
+	<Item Name="FPref_clustered--cluster references.ctl" Type="VI" URL="../../FileReader/FPref_clustered--cluster references.ctl"/>
+	<Item Name="Indicators--FP cluster.ctl" Type="VI" URL="../../Main UI Shared/Indicators--FP cluster.ctl"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="FPref_cntrls--cluster references.ctl" Type="VI" URL="../../FileReader/FPref_cntrls--cluster references.ctl"/>
 	<Item Name="MHL_load file.vi" Type="VI" URL="../MHL_load file.vi"/>
 	<Item Name="MHL_decimate wfms.vi" Type="VI" URL="../MHL_decimate wfms.vi"/>
 </Library>
